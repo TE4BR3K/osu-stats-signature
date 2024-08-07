@@ -15,7 +15,7 @@ app.get('/card', async function (req, res) {
 		'Content-Type': 'image/svg+xml',
 		'Cache-Control': 'public, max-age=3600'
 	});
-	let username = req.query.user ?? '';
+	let username = req.query.user ?? 'wxhwxh';
 	const playmode = req.query.mode ?? 'std';
 	const isMini = req.query.mini != undefined && req.query.mini == 'true';
 	const includeSkills = req.query.skills != undefined && req.query.skills == 'true';
