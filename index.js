@@ -88,7 +88,7 @@ app.get('/skills', async function (req, res) {
 		'Content-Type': 'image/svg+xml',
 		'Cache-Control': 'public, max-age=3600'
 	});
-	let username = req.query.user ?? '';
+	let username = req.query.user ?? 'wxhwxh';
 	const playmode = 'std';
 
 	const exampleMode = req.query.example != undefined && req.query.example == 'true';
