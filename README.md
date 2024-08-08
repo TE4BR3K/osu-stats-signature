@@ -1,10 +1,12 @@
 # osu-stats-signature
 
-[![GitHub](https://img.shields.io/github/license/solstice23/osu-stats-signature?color=blue&style=for-the-badge)](https://github.com/solstice23/osu-stats-signature/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/solstice23/osu-stats-signature?color=ff69b4&style=for-the-badge)](https://github.com/solstice23/osu-stats-signature/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/solstice23/osu-stats-signature?style=for-the-badge)](https://github.com/solstice23/osu-stats-signature/commits/master)
-
 ## 简介
 
 osu-stats-signature 可以生成实时更新的 osu! 个人资料卡片/签名档。生成的卡片为 SVG，可用于个人主页。
+
+## 本Fork 简介
+
+本人打算在一个校园博客（迫真）上插入'osu-stats-signature'，奈何博客禁用了'<iframe>'、'<embed>'、'<script>'、带有传参的url（这直接导致我难以使用原项目的api）以及base64嵌入，故Fork了一份并修改了不传入'username'时的默认参数（这样不用传参也可以使用api了）。
 
 ## 使用
 
