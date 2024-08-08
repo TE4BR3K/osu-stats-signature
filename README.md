@@ -6,7 +6,7 @@ osu-stats-signature 可以生成实时更新的 osu! 个人资料卡片/签名�
 
 ## 本Fork 简介
 
-本人打算在一个校园博客（迫真）上插入'osu-stats-signature'，奈何博客禁用了'<iframe>'、'<embed>'、'<script>'、带有传参的url（这直接导致我难以使用原项目的api）以及base64嵌入，故Fork了一份并修改了不传入'username'时的默认参数（这样不用传参也可以使用api了）。
+本人打算在一个校园博客（迫真）上插入`osu-stats-signature`，奈何博客禁用了`<iframe>`、`<embed>`、`<script>`、带有传参的url（这直接导致我难以使用原项目的api）以及base64嵌入，故Fork了一份并修改了不传入`username`时的默认参数（这样不用传参也可以使用api了）。
 
 ## 使用
 
