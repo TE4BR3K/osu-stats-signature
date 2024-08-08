@@ -12,6 +12,8 @@ osu-stats-signature 可以生成实时更新的 osu! 个人资料卡片/签名�
 
 该项目部署在 Vercel 上，前往 [osu-stats-signature.vercel.app](https://osu-stats-signature.vercel.app) 生成卡片。
 
+本fork的部署地址为 [osu-stats-signature-for-wxhwxh.vercel.app](https://osu-stats-signature-for-wxhwxh.vercel.app)
+
 将得到的卡片 SVG 地址作为图片插入到个人主页中即可。
 
 ## 功能 & TODO
@@ -33,7 +35,7 @@ osu-stats-signature 可以生成实时更新的 osu! 个人资料卡片/签名�
 
 <a href="https://osu.ppy.sh/users/7562902/"><img src="https://osu-sig.vercel.app/card?user=mrekk&mode=std&lang=en&animation=true" width="550" /></a>
 
-<a href="https://osu.ppy.sh/users/21226378/"><img src="https://osu-sig.vercel.app/card?user=solstice23&mode=std&animation=true" width="550" /></a>
+<a href="https://osu.ppy.sh/users/8610268/"><img src="https://osu-sig.vercel.app/card?user=wxhwxh&mode=std&animation=true" width="550" /></a>
 
 ### With osu!skills chart
 
@@ -41,4 +43,4 @@ osu-stats-signature 可以生成实时更新的 osu! 个人资料卡片/签名�
 
 ## Mini
 
-<a href="https://osu.ppy.sh/users/21226378/"><img src="https://osu-sig.vercel.app/card?user=solstice23&mode=std&blur=6&animation=true&mini=true" width="400" /></a>
+<a href="https://osu.ppy.sh/users/8610268/"><img src="https://osu-sig.vercel.app/card?user=wxhwxh&mode=std&blur=6&animation=true&mini=true" width="400" /></a>
